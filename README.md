@@ -9,7 +9,7 @@
 
 - 🌱 Estoy aprendiendo **JavaScript, NodeJS, TypeScript y React.**
 
-- 📫 Para contactar conmigo usa: **yuhjakcontact@gmail.com o mi discord.**
+- 📫 Para contactar conmigo usa: **habdga45@gmail.com o mi discord.**
 
 <h3 align="left">Sigueme y conoceme más en:</h3>
 <p align="left">
