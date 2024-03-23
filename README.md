@@ -7,7 +7,7 @@
 
 - 🐱‍💻 Estoy trabajando en: **Zalo (Discord bot)**
 
-- 🌱 Estoy aprendiendo **JavaScript, NodeJS, TypeScript y React.**
+- 🌱 Estoy aprendiendo **JavaScript y NodeJS.**
 
 - 📫 Para contactar conmigo usa: **habdga45@gmail.com o mi discord.**
 
