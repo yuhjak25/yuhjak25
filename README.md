@@ -4,7 +4,7 @@
 ## Habilidades 🚀
 
 ### Lenguajes de marcado y estilos:
-![Texto alternativo](https://i.imgur.com/S1Vy64k.jpg)
+![HTML](https://i.imgur.com/S1Vy64k.jpg) HTML ![CSS](https://i.imgur.com/ElZAfqN) CSS
 
 ### Lenguajes de programación:
 
