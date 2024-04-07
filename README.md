@@ -1,7 +1,12 @@
 # yuhjak25
 
 ## Sobre Mí
-¡Hola! Soy yuhjak.
+
+¡Hola! Soy yuhjak, un desarrollador que está aprendiendo y apasionado por la tecnología. Actualmente estoy explorando diferentes tecnologías y frameworks para mejorar mis habilidades como desarrollador.
+
+## Proyecto
+
+Uno de mis proyectos actuales es un bot de Discord llamado [Zalo Network](https://github.com/zalonetwork), que esta en desarrollo. Zalo Network es un bot multifuncional que ofrece una variedad de características útiles para comunidades de Discord.
 
 ## Habilidades
 ### Lenguajes de marcado y estilos:
