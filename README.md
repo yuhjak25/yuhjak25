@@ -9,15 +9,15 @@
 ## Habilidades 🚀
 
 ### Lenguajes de marcado y estilos:
-<span class="rounded"  style=" color: white;"> <img src="./public/html.png" alt="">HTML</span> <span class="rounded"  style=" color: white;"> <img src="./public/css.png" alt="">CSS</span>
+<span class="rounded"  style=" color: white;"> <img src="https://imgur.com/3DVEzLd" alt="">HTML</span> <span class="rounded"  style=" color: white;"> <img src="https://imgur.com/OLIB4Lc" alt="">CSS</span>
 ### Lenguajes de programación:
-<span class="rounded"  style=" color: white;"> <img src="./public/javascript.png" alt="">JavaScript</span> <span class="rounded"  style=" color: white;"> <img src="./public/typescript.png" alt="">TypeScript</span>
+<span class="rounded"  style=" color: white;"> <img src="https://imgur.com/UQvWH5z" alt="">JavaScript</span> <span class="rounded"  style=" color: white;"> <img src="https://imgur.com/DPaaEgP" alt="">TypeScript</span>
 
 ### Tecnologías y frameworks de desarrollo web:
-<span class="rounded"  style="color: white;"> <img src="./public/nodejs.png" alt="">NodeJS</span> <span class="rounded"  style="color: white;"> <img src="./public/mongodb.png" alt="">MongoDB</span>
+<span class="rounded"  style="color: white;"> <img src="https://imgur.com/ZF2XDKO" alt="">NodeJS</span> <span class="rounded"  style="color: white;"> <img src="https://imgur.com/iuMEyN6" alt="">MongoDB</span>
 
 ### Plataformas de comunicación:
-<span class="rounded"  style=" color: white;"> <img src="./public/discord.png" alt="">Discord</span>
+<span class="rounded"  style=" color: white;"> <img src="https://imgur.com/ThFQCLk" alt="">Discord</span>
 
 ## Estadísticas del GitHub 📊
 
