@@ -5,20 +5,19 @@
 ## Habilidades 🚀
 
 ### Lenguajes de marcado y estilos:
-![Texto alternativo](https://i.imgur.com/oSmKQYz.jpg)
-
-
-
+![HTML](https://i.imgur.com/Y7i6RvR.jpg) ![CSS](https://i.imgur.com/pPEvpDx.jpg)
 
 ### Lenguajes de programación:
-
+![TypeScript](https://i.imgur.com/QBVX3Ry.jpg) ![JavaScript](https://i.imgur.com/ZyabsBQ.jpg)
 
 ### Tecnologías y frameworks de desarrollo web:
-<span class="rounded"  style="color: white;"> <img src="" alt="">NodeJS</span> <span class="rounded"  style="color: white;"> <img src="" alt="">MongoDB</span>
+![NodeJS](https://i.imgur.com/1Ba9lE8.jpg) ![MongoDB](https://i.imgur.com/4lFqcpD.jpg)
+
+### Control de versiones:
+![GIT](https://i.imgur.com/M0U0NzW.jpg)
 
 ### Plataformas de comunicación:
-![Imagen](https://i.imgur.com/ylekq7Z.jpg)
-
+![Discord](https://i.imgur.com/e7XaR5X.jpg) ![DiscordBot](https://i.imgur.com/nRCT4wR.jpg)
 
 ## Proyecto Actual: Zalo Network 🤖
 
