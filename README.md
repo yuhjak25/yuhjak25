@@ -1,10 +1,5 @@
-#¡Hola! Soy yuhjak 👋
-
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado por la tecnología y actualmente estoy explorando diferentes tecnologías y frameworks para mejorar mis habilidades como desarrollador.
 
-## Proyecto Actual: Zalo Network 🤖
-
-[Zalo Network](https://github.com/zalonetwork) es un bot de Discord que estoy desarrollando actualmente. Este bot multifuncional ofrece una variedad de características útiles para comunidades de Discord en desarrollo.
 
 ## Habilidades 🚀
 
@@ -19,6 +14,11 @@
 
 ### Plataformas de comunicación:
 <span class="rounded"  style=" color: white;"> <img src="https://drive.google.com/file/d/1H7Tmruv7owcnW8vhTCI_vvE1pkeSfppo/view?usp=drive_link" alt="">Discord</span>
+
+## Proyecto Actual: Zalo Network 🤖
+
+[Zalo Network](https://github.com/zalonetwork) es un bot de Discord que estoy desarrollando actualmente. Este bot multifuncional ofrece una variedad de características útiles para comunidades de Discord en desarrollo.
+
 
 ## Estadísticas del GitHub 📊
 
