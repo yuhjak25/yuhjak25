@@ -9,7 +9,7 @@
 
 [![Discord](https://img.shields.io/badge/Chat-Discord-blue?logo=discord&style=flat-square)](https://discord.com/users/1211695322720501820)
 
-https://lanyard.cnrad.dev/api/1211695322720501820?hideDiscrim=false&hideStatus=false&hideTimestamp=false
+GET api.lanyard.rest/v1/users/1211695322720501820
 
 
 
