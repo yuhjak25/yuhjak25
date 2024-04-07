@@ -4,19 +4,19 @@
 ## Habilidades 🚀
 
 ### Lenguajes de marcado y estilos:
-![HTML](https://i.imgur.com/Y7i6RvR.jpg) ![CSS](https://i.imgur.com/pPEvpDx.jpg)
+<img src="https://i.imgur.com/Y7i6RvR.jpg" alt="HTML" width="75"/> <img src="https://i.imgur.com/pPEvpDx.jpg" alt="CSS" width="75"/>
 
 ### Lenguajes de programación:
-![TypeScript](https://i.imgur.com/QBVX3Ry.jpg) ![JavaScript](https://i.imgur.com/ZyabsBQ.jpg)
+<img src="https://i.imgur.com/QBVX3Ry.jpg" alt="TypeScript" width="75"/> <img src="https://i.imgur.com/ZyabsBQ.jpg" alt="JavaScript" width="75"/>
 
 ### Tecnologías y frameworks de desarrollo web:
-![NodeJS](https://i.imgur.com/1Ba9lE8.jpg) ![MongoDB](https://i.imgur.com/4lFqcpD.jpg)
+<img src="https://i.imgur.com/1Ba9lE8.jpg" alt="NodeJS" width="75"/> <img src="https://i.imgur.com/4lFqcpD.jpg" alt="MongoDB" width="75"/>
 
 ### Control de versiones:
-![GIT](https://i.imgur.com/M0U0NzW.jpg)
+<img src="https://i.imgur.com/M0U0NzW.jpg" alt="GIT" width="75"/>
 
 ### Plataformas de comunicación:
-![Discord](https://i.imgur.com/e7XaR5X.jpg) ![DiscordBot](https://i.imgur.com/nRCT4wR.jpg)
+<img src="https://i.imgur.com/e7XaR5X.jpg" alt="Discord" width="75"/> <img src="https://i.imgur.com/nRCT4wR.jpg" alt="DiscordBot" width="75"/>
 
 ## Proyecto Actual: Zalo Network 🤖
 
