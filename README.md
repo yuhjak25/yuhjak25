@@ -5,7 +5,9 @@
 
 ### Lenguajes de marcado y estilos:
 ![Texto alternativo](https://i.imgur.com/NbYWxE8.jpg)
-HTML
+
+Este es el texto que aparecerá debajo de la imagen.
+
 
 
 ### Lenguajes de programación:
