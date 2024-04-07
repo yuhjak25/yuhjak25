@@ -27,3 +27,11 @@
 ## Discord Presence 🎮
 
 ![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1211695322720501820)
+
+
+
+<img
+  src="https://www.flaticon.com/free-icon/typescript_5968381?term=typescript&page=1&position=1&origin=search&related_id=5968381"
+  alt="Typescript"
+  style="max-width: 100%; border-radius: 50%"
+/>
