@@ -1,29 +1,39 @@
+<style>
+    .rounded {
+        border-radius: 20px; /* Ajusta el valor según el grado de redondez deseado */
+        padding: 10px 20px; /* Ajusta el relleno según sea necesario */
+    }
+</style>
+
 # ¡Hola! Soy yuhjak 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado por la tecnología y actualmente estoy explorando diferentes tecnologías y frameworks para mejorar mis habilidades como desarrollador.
+## Sobre Mí
 
-## Proyecto Actual: Zalo Network 🤖
+Soy un desarrollador apasionado por la tecnología y siempre estoy buscando aprender y mejorar mis habilidades. Actualmente me encuentro explorando diferentes tecnologías y frameworks para expandir mi conocimiento en el desarrollo de software.
 
-[Zalo Network](https://github.com/zalonetwork) es un bot de Discord que estoy desarrollando actualmente. Este bot multifuncional ofrece una variedad de características útiles para comunidades de Discord.
+## Proyecto
 
-## Habilidades 🚀
+Uno de mis proyectos actuales es [Zalo Network](https://github.com/zalonetwork), un bot de Discord multifuncional que está en desarrollo y ofrece una variedad de características útiles para comunidades de Discord.
+
+## Habilidades
 
 ### Lenguajes de marcado y estilos:
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<span class="rounded" style="background-color: #E34F26; color: white;">HTML</span>
+<span class="rounded" style="background-color: #1572B6; color: white;">CSS</span>
 
 ### Lenguajes de programación:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+<span class="rounded" style="background-color: #F7DF1E; color: black;">JavaScript</span>
+<span class="rounded" style="background-color: #007ACC; color: white;">TypeScript</span>
 
 ### Tecnologías y frameworks de desarrollo web:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<span class="rounded" style="background-color: #339933; color: white;">Node.js</span>
+<span class="rounded" style="background-color: #47A248; color: white;">MongoDB</span>
 
 ### Plataformas de comunicación:
-![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) 
+<span class="rounded" style="background-color: #5865F2; color: white;">Discord</span>
 
-## Estadísticas del GitHub 📊
-
-[![Estadísticas](https://github-readme-stats.vercel.app/api?username=yuhjak25&show_icons=true&theme=dark&hide_border=true)](https://github.com/yuhjak25) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhjak25&layout=compact&theme=dark&hide_border=true)](https://github.com/yuhjak25)
-
-## Discord Presence 🎮
+## Estadísticas
 
 ![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1211695322720501820)
+
+[![Estadísticas](https://github-readme-stats.vercel.app/api?username=yuhjak25&show_icons=true&theme=dark)](https://github.com/yuhjak25) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhjak25&layout=compact&theme=dark)
