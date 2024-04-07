@@ -1,29 +1,29 @@
-# yuhjak25
+# ¡Hola! Soy yuhjak 👋
 
-## Sobre Mí
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado por la tecnología y actualmente estoy explorando diferentes tecnologías y frameworks para mejorar mis habilidades como desarrollador.
 
-¡Hola! Soy yuhjak, un desarrollador que está aprendiendo y apasionado por la tecnología. Actualmente estoy explorando diferentes tecnologías y frameworks para mejorar mis habilidades como desarrollador.
+## Proyecto Actual: Zalo Network 🤖
 
-## Proyecto
+[Zalo Network](https://github.com/zalonetwork) es un bot de Discord que estoy desarrollando actualmente. Este bot multifuncional ofrece una variedad de características útiles para comunidades de Discord en desarrollo.
 
-Uno de mis proyectos actuales es un bot de Discord llamado [Zalo Network](https://github.com/zalonetwork), que esta en desarrollo. Zalo Network es un bot multifuncional que ofrece una variedad de características útiles para comunidades de Discord.
+## Habilidades 🚀
 
-## Habilidades
 ### Lenguajes de marcado y estilos:
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Lenguajes de programación:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 
 ### Tecnologías y frameworks de desarrollo web:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Plataformas de comunicación:
-![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white) 
+![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) 
 
-## Stats
+## Estadísticas del GitHub 📊
+
+[![Estadísticas](https://github-readme-stats.vercel.app/api?username=yuhjak25&show_icons=true&theme=dark&hide_border=true)](https://github.com/yuhjak25) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhjak25&layout=compact&theme=dark&hide_border=true)](https://github.com/yuhjak25)
+
+## Discord Presence 🎮
+
 ![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1211695322720501820)
-
-[![Estadísticas](https://github-readme-stats.vercel.app/api?username=yuhjak25&show_icons=true&theme=dark)](https://github.com/yuhjak25) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhjak25&layout=compact&theme=dark)
-
-
