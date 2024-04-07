@@ -5,7 +5,7 @@
 ## Habilidades 🚀
 
 ### Lenguajes de marcado y estilos:
-![Texto alternativo](https://i.imgur.com/NbYWxE8.jpg)
+![Texto alternativo](https://i.imgur.com/oSmKQYz.jpg)
 
 
 
@@ -17,6 +17,7 @@
 <span class="rounded"  style="color: white;"> <img src="" alt="">NodeJS</span> <span class="rounded"  style="color: white;"> <img src="" alt="">MongoDB</span>
 
 ### Plataformas de comunicación:
+![Imagen](https://i.imgur.com/ylekq7Z.jpg)
 
 
 ## Proyecto Actual: Zalo Network 🤖
