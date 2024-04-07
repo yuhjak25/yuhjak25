@@ -1,6 +1,5 @@
-##Bienvenido 🖖
+## Bienvenido 🖖
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado por la tecnología y actualmente estoy explorando diferentes tecnologías y frameworks para mejorar mis habilidades como desarrollador.
-
 
 ## Habilidades 🚀
 
