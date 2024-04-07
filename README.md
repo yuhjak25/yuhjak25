@@ -9,8 +9,8 @@
 ## Habilidades 🚀
 
 ### Lenguajes de marcado y estilos:
-<span class="rounded"  style=" color: white;"> <img src="https://drive.google.com/uc?id=1pF2gmgKYm7JVcf4GS8-RazxLdQMYftFx
-" alt="">HTML</span> <span class="rounded"  style=" color: white;"> <img src="https://drive.google.com/file/d/1yfCZ-QhUI8TC89S9OzGxOwPnP7DtJAuo/view?usp=drive_link" alt="">CSS</span>
+![Texto alternativo](https://drive.google.com/uc?id=1JhbrYsC1ft2q5-h4G_6fngqNrQFkBqSv)
+
 ### Lenguajes de programación:
 <span class="rounded"  style=" color: white;"> <img src="https://drive.google.com/file/d/1NCkhHmCJHDpPxkqPNDq_iknSzeENZRoE/view?usp=drive_link" alt="">JavaScript</span> <span class="rounded"  style=" color: white;"> <img src="https://drive.google.com/file/d/1JhbrYsC1ft2q5-h4G_6fngqNrQFkBqSv/view?usp=drive_link" alt="">TypeScript</span>
 
