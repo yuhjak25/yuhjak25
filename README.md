@@ -4,9 +4,8 @@
 ## Habilidades 🚀
 
 ### Lenguajes de marcado y estilos:
-![Texto alternativo](https://i.imgur.com/NbYWxE8.jpg)
+<img src="https://i.imgur.com/NbYWxE8.jpg" alt="Texto alternativo" style="width: 200px; height: auto;"/>
 
-Este es el texto que aparecerá debajo de la imagen.
 
 
 
