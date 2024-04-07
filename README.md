@@ -4,20 +4,20 @@
 ## Habilidades 🚀
 
 ### Lenguajes de marcado y estilos:
-
-
+![html](https://imgur.com/IWafHc7) ![html](https://imgur.com/A7B2BIB)
 ### Lenguajes de programación:
-<span class="rounded"  style=" color: white;"> <img src="https://drive.google.com/file/d/1NCkhHmCJHDpPxkqPNDq_iknSzeENZRoE/view?usp=drive_link" alt="">JavaScript</span> <span class="rounded"  style=" color: white;"> <img src="https://drive.google.com/file/d/1JhbrYsC1ft2q5-h4G_6fngqNrQFkBqSv/view?usp=drive_link" alt="">TypeScript</span>
+
 
 ### Tecnologías y frameworks de desarrollo web:
 <span class="rounded"  style="color: white;"> <img src="" alt="">NodeJS</span> <span class="rounded"  style="color: white;"> <img src="" alt="">MongoDB</span>
 
 ### Plataformas de comunicación:
-<span class="rounded"  style=" color: white;"> <img src="https://drive.google.com/file/d/1H7Tmruv7owcnW8vhTCI_vvE1pkeSfppo/view?usp=drive_link" alt="">Discord</span>
+
 
 ## Proyecto Actual: Zalo Network 🤖
 
 [Zalo Network](https://github.com/zalonetwork) es un bot de Discord que estoy desarrollando actualmente. Este bot multifuncional ofrece una variedad de características útiles para comunidades de Discord en desarrollo.
+
 
 
 ## Estadísticas del GitHub 📊
