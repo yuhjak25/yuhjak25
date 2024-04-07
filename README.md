@@ -1,4 +1,4 @@
-# [yuhjak25]
+# yuhjak25
 
 ## Sobre Mí
 ¡Hola! Soy yuhjak.
