@@ -20,7 +20,7 @@
 
 ## Proyecto Actual: Zalo Network 🤖
 
-[Zalo Network](https://github.com/zalonetwork) es un bot de Discord que estoy desarrollando actualmente. Este bot multifuncional ofrece una variedad de características útiles para comunidades de Discord en desarrollo.
+[Zalo Network](https://github.com/Zalo-Network) es un bot de Discord que estoy desarrollando actualmente. Este bot multifuncional ofrece una variedad de características útiles para comunidades de Discord en desarrollo.
 
 
 
