@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29remI2OGZwZ2ZuZHUya2xuZXc2dm5ocHMzeXR2b3J1OXZzM2hlNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50"> ¡Hello World! I am Yuhjak
 
-🚀 Full-stack developer in progress, passionate about creating efficient and scalable applications. Always looking to learn and improve. 
+Full-stack developer in progress, passionate about creating efficient and scalable applications. Always looking to learn and improve. 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yuhjak25&color=blue&style=flat)
 ![GitHub Followers](https://img.shields.io/github/followers/yuhjak25?style=flat&color=green)
