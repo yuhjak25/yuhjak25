@@ -1,4 +1,5 @@
-# ¡Hola! Soy Yuhjak 👋
+# ¡Hola! Soy Yuhjak 👋 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczdvbHZ5NzV5aTg3aXR0dWlodmk0dzRwbXJ2eTJ4enB5aWlydzY1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cLGu3Icy4OImKOJpai/giphy.webp" width="50" alt="Coding GIF">
+
 Desarrollador full-stack en crecimiento, apasionado por crear aplicaciones eficientes y escalables. Siempre buscando aprender y mejorar. 🚀
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=yuhjak25&color=blue&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/yuhjak25?style=flat&color=green)
