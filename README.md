@@ -38,7 +38,7 @@ I'm a passionate web developer, always learning and striving to build efficient 
 
 ---
 
-## 👊 **Follow Me**
+## 👊 **Contact/Follow Me**
 
 (click)
 
