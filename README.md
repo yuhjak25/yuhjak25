@@ -1,42 +1,59 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29remI2OGZwZ2ZuZHUya2xuZXc2dm5ocHMzeXR2b3J1OXZzM2hlNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50"> ¡Hello World! I am Yuhjak
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29remI2OGZwZ2ZuZHUya2xuZXc2dm5ocHMzeXR2b3J1OXZzM2hlNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50"> **Hey, Yuhjak here!**
 
-Full-stack developer in progress, passionate about creating efficient and scalable applications. Always looking to learn and improve. 
+I'm a passionate web developer, always learning and striving to build efficient and scalable applications.
 
-![Profile Views](https://komarev.com/ghpvc/?username=yuhjak25&color=blue&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/yuhjak25?style=flat&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=yuhjak25&color=blue&style=flat-square)  
+![GitHub Followers](https://img.shields.io/github/followers/yuhjak25?style=flat-square&color=green)
 
----
-
-### 🚀 Technologies & Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
+</div>
 
 ---
 
-### 📊 GitHub Statistics
+## 🛠️ **Technologies & Tools**
 
-![Yuhjak25 Stats](https://github-readme-stats.vercel.app/api?username=yuhjak25&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhjak25&layout=compact&theme=radical)
+### **Programming Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+
+### **Frameworks**
+
+[![My Skills](https://skillicons.dev/icons?i=react,redux)](https://skillicons.dev)
+
+### **Frontend Development**
+
+[![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
+
+### **Backend Development**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,bun)](https://skillicons.dev)
+
+### **Database & Cloud Hosting**
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+
+### **Wanna Learn / Learning**
+
+[![My Skills](https://skillicons.dev/icons?i=ts,mysql,rust,bash,astro)](https://skillicons.dev)
 
 ---
 
-### 🔥 GitHub Streak
+## 👊 **Follow Me**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuhjak25&theme=radical)
-
----
-
-### 🏆 GitHub Trophy
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=yuhjak25&theme=radical)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/FShvrQVb6W) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/yuhjak25) [![My Skills](https://skillicons.dev/icons?i=gmail)](yuhjakcontact@gmail.com)
 
 ---
 
-### 🎮 Discord Presence 
+## 📊 **Stats & Activity**
 
 ![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1211695322720501820)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhjak25&theme=transparent&layout=compact)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuhjak25&theme=transparent&layout=compact)](https://github.com/yuhjak25/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhjak25&theme=transparent&layout=compact&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 
 
