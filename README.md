@@ -41,7 +41,9 @@ I'm a passionate web developer, always learning and striving to build efficient 
 
 ## 👊 **Follow Me**
 
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/FShvrQVb6W) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/yuhjak25) [![My Skills](https://skillicons.dev/icons?i=gmail)](yuhjakcontact@gmail.com)
+(click)
+
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/5yHT2qeQrx) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/yuhjak25) [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=yuhjakcontact@gmail.com)
 
 ---
 
@@ -51,9 +53,8 @@ I'm a passionate web developer, always learning and striving to build efficient 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhjak25&theme=transparent&layout=compact)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuhjak25&theme=transparent&layout=compact)](https://github.com/yuhjak25/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuhjak25&theme=transparent&layout=compact)](https://github.com/yuhjak25/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhjak25&theme=transparent&layout=compact&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhjak25&theme=transparent&layout=compact&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
