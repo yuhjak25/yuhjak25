@@ -2,8 +2,7 @@
 
 I'm a passionate web developer, always learning and striving to build efficient and scalable applications.
 
-![Profile Views](https://komarev.com/ghpvc/?username=yuhjak25&color=blue&style=flat-square)  
-![GitHub Followers](https://img.shields.io/github/followers/yuhjak25?style=flat-square&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=yuhjak25&color=blue&style=flat-square)  ![GitHub Followers](https://img.shields.io/github/followers/yuhjak25?style=flat-square&color=green)
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
