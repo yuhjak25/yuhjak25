@@ -14,7 +14,7 @@ I'm a passionate web developer, always learning and striving to build efficient 
 
 ### **Programming Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
 ### **Frameworks**
 
@@ -34,7 +34,7 @@ I'm a passionate web developer, always learning and striving to build efficient 
 
 ### **Wanna Learn / Learning**
 
-[![My Skills](https://skillicons.dev/icons?i=ts,mysql,rust,bash,astro)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,rust,bash,astro)](https://skillicons.dev)
 
 ---
 
