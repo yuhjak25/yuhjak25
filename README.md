@@ -2,51 +2,6 @@
 
 I'm a passionate web developer, always learning and striving to build efficient and scalable applications.
 
-![Profile Views](https://komarev.com/ghpvc/?username=yuhjak25&color=blue&style=flat-square)  ![GitHub Followers](https://img.shields.io/github/followers/yuhjak25?style=flat-square&color=green)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
-</div>
-
----
-
-## 🛠️ **Technologies & Tools**
-
-### **Programming Languages**
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
-
-### **Frameworks**
-
-[![My Skills](https://skillicons.dev/icons?i=react,redux)](https://skillicons.dev)
-
-### **Frontend Development**
-
-[![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
-
-### **Backend Development**
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,bun)](https://skillicons.dev)
-
-### **Database & Cloud Hosting**
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-
-### **Wanna Learn / Learning**
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,rust,bash,astro)](https://skillicons.dev)
-
----
-
-## 👊 **Contact/Follow Me**
-
-(click)
-
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/5yHT2qeQrx) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/yuhjak25) [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=yuhjakcontact@gmail.com)
-
----
-
-## 📊 **Stats & Activity**
 
 ![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1211695322720501820)
 
