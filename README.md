@@ -4,11 +4,3 @@ I'm a passionate web developer, always learning and striving to build efficient 
 
 
 ![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1211695322720501820)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhjak25&theme=transparent&layout=compact)
-
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuhjak25&theme=transparent&layout=compact)](https://github.com/yuhjak25/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhjak25&theme=transparent&layout=compact&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-
